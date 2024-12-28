@@ -1,0 +1,56 @@
+<resources>
+    <!-- App Name -->
+    <string name="app_name">Art Space App</string>
+
+    <!-- Image Descriptions -->
+    <string name="a">Still life of blue roses and lilacs in a vase</string>
+    <string name="b">Abstract art with vibrant colors and textures</string>
+    <string name="c">Landscape of mountains at sunset</string>
+    <string name="d">Portrait of a woman in a blue dress</string>
+    <string name="e">Forest pathway covered with autumn leaves</string>
+    <string name="f">Cityscape at night with glowing streetlights</string>
+    <string name="g">Close-up of dew on a spider web</string>
+    <string name="h">Classic still life of fruit and flowers</string>
+    <string name="i">Impressionist painting of a riverbank</string>
+    <string name="j">Modern art with geometric patterns</string>
+    <string name="k">Seascape with crashing waves</string>
+    <string name="l">Minimalist black and white portrait</string>
+    <string name="m">Surreal painting of a dreamlike landscape</string>
+    <string name="n">Detailed botanical illustration of a rose</string>
+    <string name="o">Sunset over a wheat field</string>
+
+    <!-- Artist Names -->
+    <string name="aa">Owen Scott</string>
+    <string name="ba">Emma Cole</string>
+    <string name="ca">Liam Chen</string>
+    <string name="da">Sophia Martinez</string>
+    <string name="ea">Jackson Lee</string>
+    <string name="fa">Isabella Clark</string>
+    <string name="ga">Lucas Turner</string>
+    <string name="ha">Olivia Nguyen</string>
+    <string name="ia">Ethan Adams</string>
+    <string name="ja">Ava Thompson</string>
+    <string name="ka">Michael Rivera</string>
+    <string name="la">Emily Harris</string>
+    <string name="ma">Daniel Young</string>
+    <string name="na">Grace Taylor</string>
+    <string name="oa">James White</string>
+
+    <!-- Dates -->
+    <string name="ad">2023</string>
+    <string name="bd">2021</string>
+    <string name="cd">2022</string>
+    <string name="dd">2020</string>
+    <string name="ed">2019</string>
+    <string name="fd">2021</string>
+    <string name="gd">2023</string>
+    <string name="hd">2020</string>
+    <string name="id">2018</string>
+    <string name="jd">2017</string>
+    <string name="kd">2019</string>
+    <string name="ld">2016</string>
+    <string name="md">2023</string>
+    <string name="nd">2021</string>
+    <string name="od">2022</string>
+
+</resources>
